@@ -5,7 +5,7 @@ Exploratory analysis of **27,075 Steam store games (1997–2019)** — release t
 ## Dataset
 
 - **Source:** "Steam Store Games" by Nik Davis — https://www.kaggle.com/datasets/nikdavis/steam-store-games (CC-BY 4.0)
-- **File:** `data/steam.csv` (27,075 rows, 18 columns — shipped with the repo)
+- **File:** `data/steam.csv` (27,075 rows × 18 columns) — download it from the Kaggle page above (free account required) and place it in the `data/` folder. The CSV is too large to bundle in the repo.
 - Columns include release date, developer/publisher, platforms, genres, review counts (positive/negative), playtime, estimated owners range, and price (USD).
 
 ## Key findings
@@ -30,6 +30,9 @@ Python · pandas · NumPy · matplotlib · seaborn
 | 5 | ![Owners vs sentiment](charts/05_owners_vs_sentiment.svg) | Are popular games better liked? |
 
 ## How to run
+
+1. Download `steam.csv` from the Kaggle dataset page and save it as `data/steam.csv`.
+2. Run the analysis:
 
 ```bash
 pip install -r requirements.txt
