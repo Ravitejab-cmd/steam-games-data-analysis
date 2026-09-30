@@ -23,11 +23,11 @@ Python · pandas · NumPy · matplotlib · seaborn
 
 | # | Chart | Question answered |
 |---|-------|-------------------|
-| 1 | ![Releases per year](charts/01_releases_per_year.png) | How did Steam's catalog grow over time? |
-| 2 | ![Genre distribution](charts/02_genre_distribution.png) | Which genres dominate the catalog? |
-| 3 | ![Price vs sentiment](charts/03_price_vs_sentiment.png) | Do pricier games get better reviews? |
-| 4 | ![Genre sentiment](charts/04_genre_sentiment.png) | Which genres are best reviewed? |
-| 5 | ![Owners vs sentiment](charts/05_owners_vs_sentiment.png) | Are popular games better liked? |
+| 1 | ![Releases per year](charts/01_releases_per_year.svg) | How did Steam's catalog grow over time? |
+| 2 | ![Genre distribution](charts/02_genre_distribution.svg) | Which genres dominate the catalog? |
+| 3 | ![Price vs sentiment](charts/03_price_vs_sentiment.svg) | Do pricier games get better reviews? |
+| 4 | ![Genre sentiment](charts/04_genre_sentiment.svg) | Which genres are best reviewed? |
+| 5 | ![Owners vs sentiment](charts/05_owners_vs_sentiment.svg) | Are popular games better liked? |
 
 ## How to run
 
